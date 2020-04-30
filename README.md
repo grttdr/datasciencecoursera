@@ -21,7 +21,7 @@ have to work through all the pre-processing steps first.
 
 
 What you should deliver to the statistician
-====================
+===================
 
 To facilitate the most efficient and timely analysis this is the information you should pass to a statistician:
 
